@@ -1,0 +1,6 @@
+{
+  "name": "PGY學分查詢系統",
+  "description": "提供住院醫師（PGY1 與 PGY2）查詢其到職一年及二年內的應修學分完成狀況，並支援管理員匯入及管理學員上課紀錄。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
